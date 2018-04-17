@@ -135,7 +135,7 @@ Here are five German traffic signs that I found on the web:
 
 The second image might be difficult to classify because as you can see the brightness is very low, it's hard to recognize the sign by eyes. The others should be easier to classify.
 
-#### 2. Discuss the model's predictions on these new traffic signs and compare the results to predicting on the test set. At a minimum, discuss what the predictions were, the accuracy on these new predictions, and compare the accuracy to the accuracy on the test set (OPTIONAL: Discuss the results in more detail as described in the "Stand Out Suggestions" part of the rubric).
+#### 2. Discuss the model's predictions on these new traffic signs and compare the results to predicting on the test set. At a minimum, discuss what the predictions were, the accuracy on these new predictions, and compare the accuracy to the accuracy on the test set.
 
 Here are the results of the prediction:
 
@@ -152,7 +152,7 @@ The model was able to correctly guess 5 of the 5 traffic signs, which gives an a
 
  Actually I choose totally 45 images as the new images download from web, and the final mean accuracy of the 45 new images is 96.97%. I test them by setting evey 5 images as a batch, some of batches get 80% accuracy and some get 100%. So the above 5 images are the first batch of 45 images, and fortunately they have been predicted 100% correct. 
  
-#### 3. Describe how certain the model is when predicting on each of the five new images by looking at the softmax probabilities for each prediction. Provide the top 5 softmax probabilities for each image along with the sign type of each probability. (OPTIONAL: as described in the "Stand Out Suggestions" part of the rubric, visualizations can also be provided such as bar charts)
+#### 3. Describe how certain the model is when predicting on each of the five new images by looking at the softmax probabilities for each prediction. Provide the top 5 softmax probabilities for each image along with the sign type of each probability. 
 
 The code for making predictions on my final model is located in the 43th cell of the Ipython notebook.
 
@@ -166,7 +166,7 @@ For the first image, the model is relatively sure that this belong to class 20 (
 | 5.58202373e-06	      			| class 27   					 				|
 | 1.41421299e-06			    | class 0         							|
 
-### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
+### Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
 #### 1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?
 I have encountered some error when dealing with this part, will updated later.
 
