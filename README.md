@@ -166,8 +166,5 @@ For the first image, the model is relatively sure that this belong to class 20 (
 | 5.58202373e-06	      			| class 27   					 				|
 | 1.41421299e-06			    | class 0         							|
 
-### Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
-#### 1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?
-I have encountered some error when dealing with this part, will updated later.
 
 
