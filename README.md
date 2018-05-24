@@ -25,9 +25,7 @@ The goals / steps of this project are the following:
 [image7]: ./examples/test_4.png "Traffic Sign 4"
 [image8]: ./examples/test_5.png "Traffic Sign 5"
 [image9]: ./examples/dataset_visul.png "dataset samples"
-
-## Rubric Points
-Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
+ 
 
 ---
 ### Writeup / README
